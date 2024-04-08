@@ -3,7 +3,7 @@
 
 Project Overview
 - Project name:- FitnessOK.
-- Group members:- [Vipul Koli](https://github.com/Vipulkoli2000), [Vaishnavi Patil](https://github.com/vaishhgithub).
+- Group members:- [Vipul Koli](https://github.com/Vipulkoli2000), [Vaishnavi Patil](https://github.com/VaishPatil2002).
 
    A comprehensive fitness management platform. Importance of technological integration in the fitness industry. Scope and objectives of the paper and Understanding FitnessOK Architecture. Core components and functionalities. Role of HTML, CSS, and JavaScript in user interface design. PHP and server-side scripting for dynamic content generation. Utilization of MySQL for database management. Overview of Azure Web App Service and its significance in FitnessOK architecture.
 
