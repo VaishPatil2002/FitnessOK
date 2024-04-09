@@ -12,9 +12,9 @@ Project Overview
  
   Video:- https://drive.google.com/file/d/1QRShXC9Qez-NduRRp8Z2CRz8EQU73V_p/view?usp=sharing
   
-  Project Demo Url:- https://vaish.vipul.cloud/
+  Project Demo Url:- https://vaishnavi.vipul.cloud/
   
-  Project pdf URL:- https://drive.google.com/file/d/1TMcZz4zvoyIZ_3Yg-N47unkJke_pShvL/view?usp=sharing
+  Project pdf URL:- https://drive.google.com/file/d/1mOmY-XdQkBH8pPg9LPseFRcxAMcqrwB7/view?usp=sharing
      
 Azure Services Used:
 1. App Service.
