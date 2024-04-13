@@ -10,7 +10,7 @@ Project Overview
   Prerequisites:
   - An Azure account with an active subscription. [Create an account for free.](https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F)
  
-  Video:- https://drive.google.com/file/d/1QRShXC9Qez-NduRRp8Z2CRz8EQU73V_p/view?usp=sharing
+  Video:- https://drive.google.com/file/d/11uLPXiwvd0iX225BoN1kUjJiBs1CKhzL/view?usp=sharing
   
   Project Demo Url:- https://vaishnavi.vipul.cloud/
   
